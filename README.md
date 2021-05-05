@@ -1,1 +1,1 @@
-# Collatz-Sequence
+#python-basics
