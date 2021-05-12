@@ -10,10 +10,10 @@ while True:
 
     names=names + [input_names]
 
-def greetings(individual_variable):
+def greetings(individual_name):
     i=0
-    while (i!=len(individual_variable)):
-        naam=individual_variable[i]
+    while (i!=len(individual_name)):
+        naam=individual_name[i]
         print('hello ' +str(naam))
         i=i+1
 
